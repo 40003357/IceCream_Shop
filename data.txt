@@ -1,0 +1,6 @@
+Ice cream orders:
+-----------------
+Item No: 1	Ice cream flavour: Vennala	Ice cream ordered: Box	Quantity ordered: 2	Cost : 410
+Item No: 2	Ice cream flavour: Chocolate	Ice cream ordered: Cone	Quantity ordered: 2	Cost : 90
+Item No: 3	Ice cream flavour: Butterscotch	Ice cream ordered: Cup	Quantity ordered: 2	Cost : 70
+Customer Name: nagaraju	Total Bill Amount : 570.0
