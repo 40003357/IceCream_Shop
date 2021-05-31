@@ -275,7 +275,7 @@ def dealer_menu():
     """Display as the Dealer Home Screen"""
     while True:
         print("\n\nWelcome to the Ice Cream Shop\n")
-        print("--------------------------------------", + "\n")
+        print("--------------------------------------\n")
         print("Enter 1 to view all ice creams")
         print("Enter 2 to search a ice cream")
         print("Enter 3 to order ice creams")
@@ -307,7 +307,7 @@ def dealer_menu():
 
 def validate_user():
     print("\n\nWelcome to the Ice Cream Shop\n")
-    print("--------------------------------------", + "\n")
+    print("--------------------------------------\n")
     passwd = input("Enter the password for admin/dealer login: ")
     if dealer_login(passwd):
         dealer_menu()
